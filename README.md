@@ -1,3 +1,6 @@
+
+![tengrai_image_1711295762_4925134](https://github.com/moisiFerenc/Car-Sales-Analysis-and-Forecasting-with-Python/assets/78962708/e5c61f03-8e13-4c95-a561-025ab957254c)
+
 # Cars Analysis Project
 
 The "Cars Analysis Project" is a comprehensive data analysis endeavor that leverages various Python libraries to delve into car-related datasets. The analysis unfolds within the familiar environment of a Jupyter Notebook, offering an interactive and illustrative exploration of the data.
